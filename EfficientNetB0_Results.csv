@@ -1,0 +1,6 @@
+Metric,Score (%)
+Test Accuracy,91.79
+COVID F1-score,93.97
+Normal F1-score,88.41
+Pneumonia F1-score,93.01
+Brightened Test Accuracy,90.92
